@@ -1,0 +1,5 @@
+Method,Mean Coverage,Mean Precision,Mean Context
+Issue-derived anchors,0.4177,0.1074,27.65
+Embedding retrieval,0.4073,0.0879,29.76
+Fixed graph expansion,0.4071,0.1054,29.02
+GraphFix,0.4141,0.0934,29.76
